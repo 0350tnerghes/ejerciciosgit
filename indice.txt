@@ -1,5 +1,3 @@
-Capítulo 1: Introducción a Git
+Capítulo 1: Introducción a Git
 4 Capítulo 2: Flujo de trabajo básico
-5 Capítulo 3: Repositorios remotos[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[C[A[[A  Ca[D[D[C[C[Capi[B[B[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D[D[D[D[D[D[D[D[D
-git status
-
+5 Capítulo 3: Repositorios remotos
